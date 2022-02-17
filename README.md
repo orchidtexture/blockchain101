@@ -12,7 +12,7 @@ revolutionary piece of tech. _Learn, build, and repeat_. Also, don't forget to e
 
 ## Background knowledge
 
-How confortable are you with the following concepts?
+How comfortable are you with the following concepts?
 + **Proof of work:** It is an _incentive mechanism_ as well as a _consensus protocol_ 
 where nodes work in unison to solve a globally distributed cryptographic challenge.
 > It is computationally intensive and also guarantees that any solution or proof
