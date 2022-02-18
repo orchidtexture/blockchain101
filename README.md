@@ -25,7 +25,7 @@ Some resources for amping up your core blockchain concepts:
 ### Proof of work (PoW)
 
 > [Mining simulator](https://blockchain-academy.hs-mittweida.de/2021/05/proof-of-work-simulator/)  
-> [Proof of Work network simulator](https://github.com/simewu/blockchain-simulator)  
+> [Proof of Work network simulator](src/pow-simulator.md)  
 
 ### Cryptography
 
