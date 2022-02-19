@@ -18,7 +18,7 @@ where nodes work in unison to solve a globally distributed cryptographic challen
 > It is computationally intensive and also guarantees that any solution or proof
 > is genuine and that the solver can prove that they indeed solve the challenge
 > so that they can receive the reward.
-+ **Cryptography:**
++ **Cryptography:** (TODO)
 
 Some resources for amping up your core blockchain concepts:
 
@@ -34,7 +34,14 @@ Some resources for amping up your core blockchain concepts:
 
 ## Blockchain. What is it?
 
-Bitcoin whitepaper, Satoshi Nakamoto, year of creation, impact in world's financial systems.
+In 2008 the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf) was released by Satoshi Nakamoto and
+on January 2009 the Genesis Block was minted, bringing the Bitcoin network into existence, eventually becoming
+a cornerstone towards the evolution of world's financial systems. Since that day, many different blockchains have
+emerged, some of them adding functionality and innovating with state-of-the-art consensus protocols, but lets
+start with the basics and you'll find that once falling down the rabbit hole there's no way back.
+
+In order to understand blockchain fundamentals, you'll have to understand it's first use case, cryptocurrencies,
+the digital money.
 
 ### What gives cryptocurrencies their value?
 
