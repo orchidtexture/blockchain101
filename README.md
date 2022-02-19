@@ -1,4 +1,4 @@
-# blockchain101
+# Blockchain 101
 
 Blockchain learning material and resources for friends and family.
 
@@ -52,7 +52,7 @@ pickles, or maybe they believe there aren't enough pickles in the world that can
 because they are asking for doritos' bags instead.
 
 Suddenly, you come up with this great idea, living the digitally enhanced life you live it only makes sense
-for you to try to trade one of your precious digital assets, and you pay with your recently aquired PDF of a teen vampire 
+for you to try and trade one of your precious digital assets, and you pay with your recently aquired PDF of a teen vampire 
 best seller novel, you email it to the coffee shop and wait still in front of the line, grinning from ear to ear and 
 dreaming about that morning elixir you're about to get ☕️. What do you think the cashier will tell you? Will they just accept 
 it and provide you with your desired product? Most certainly not! How many people you think owns a copy of that PDF book? 
@@ -65,7 +65,29 @@ meaning, there's no real value in something that everyone can potentially own fo
 + **Double spend:** The same digital asset can be sent to multiple parties, two unaware people could be receiving
 the same picture of your dog 🐶 in exchange for a product or service.
 
-In order to solve this problem, 
+Lets see how this two problems could be solved. First, in order to prevent double spend, every participant in 
+this new digital economic system (we'll call it a network) should know who owns each asset. If everyone sees 
+how you payed your coffee with a digital file, then you cannot reuse that same file with someone else.
+Now we are left with the infinite production problem. We'll need to put some work on it, imagine this file contains
+a poem you wrote, how much time did it took to create it? lets say you spent 4 hours writing it, so you are able to
+produce 2 **unique** poems for each 8 hour shift. Now each of those poems start becoming valuable assets, since some
+work hours were needed in order to generate them. Another important aspect is verification, it may take several
+hours to create a poem, but verifying its uniqueness should be a quick task, you can run some anti-plagiarism 
+software and get it veryfied in minutes, if not seconds. Four hours to create it, a few seconds to verify is the
+asymmetrical relationship we're looking for.
+
+After we've come up with this solutions we're still missing two fundamental components: trust and decentralization.
+I know, big words, but while **trust** refers in some sense to the reputation of the party providing the asset as 
+payment (maybe known as a honest individual and prolific writer), **decentralization** simply assures that there 
+is no central owner of all these digital assets in circulation.
+
+After you succesfully trade your first poem for another good, the whole system starts to make sense and people begin
+transacting digital assets here and there. 
+Same thing happened with Bitcoin on May 22, 2010, when an individual succesfully purchased two pizzas paying the 
+modest quantity of 10,000 BTC, that day Bitcoin as a real world currency became a thing.
+
+In conclusion:
+> Double spend solved + Infinite production solved + Trust + Decentralization = **Blockchain** 
 
 
 ### Sources:

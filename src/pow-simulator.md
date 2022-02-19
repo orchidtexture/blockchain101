@@ -60,4 +60,4 @@ this forks become invalid as these nodes catch up with the rest.
 
 ## v1.0
 
-TODO
+Coming soon
